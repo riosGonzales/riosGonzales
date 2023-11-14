@@ -1,5 +1,5 @@
 - 👋 Hola, soy @riosGonzales
-- 👀 Estoy interesando en Java.
+- 👀 Estoy interesado en Java.
 
 
 <!---
